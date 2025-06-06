@@ -35,10 +35,12 @@ Libraries used: numpy, pandas, matplotlib, seaborn,
 - Average risk scores were calculated by age group.
 
 ## 📦 Dependencies
+```bash
 pandas
 numpy
 matplotlib
 seaborn
+```
 
 ## ✅ Key Insights
 - Visualizations highlight patterns in gender and health history factors.
